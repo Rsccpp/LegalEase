@@ -1,4 +1,4 @@
-# LegalEase Lab
+# LegalEase
 <div>
    <img width="1200" height="475" alt="GHBanner" src="assets/Image.png" />
 </div>
