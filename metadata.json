@@ -1,0 +1,5 @@
+{
+  "name": "LegalEase Decoder",
+  "description": "Democratizing legal knowledge by decoding complex contracts and identifying predatory clauses using Gemini AI.",
+  "requestFramePermissions": []
+}
