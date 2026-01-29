@@ -1,6 +1,6 @@
 <div align="center">
    <img 
-  src={`${process.env.PUBLIC_URL}/assets/Image.png`} 
+  src={./assets/Image.png`} 
   alt="GitHub Banner" 
   width={1200} 
   height={475} 
