@@ -1,4 +1,11 @@
 <div align="center">
+   <img 
+  src={`${process.env.PUBLIC_URL}/Image.png`} 
+  alt="GitHub Banner" 
+  width={1200} 
+  height={475} 
+/>
+
 </div>
 
 # Run and deploy your AI Studio app
