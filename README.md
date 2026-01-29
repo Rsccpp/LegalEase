@@ -1,12 +1,4 @@
-<div align="center">
-   <img 
-  src={./assets/Image.png`} 
-  alt="GitHub Banner" 
-  width={1200} 
-  height={475} 
-/>
-
-</div>
+<img width="1200" height="475" alt="GHBanner" src="assets/Image.png" /> how to add a static image in this
 
 # Run and deploy your AI Studio app
 
